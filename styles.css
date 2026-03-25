@@ -580,13 +580,3 @@
         border-radius: 5px;
         cursor: pointer;
       }
-
-      /* Responsive */
-      @media (max-width: 768px) {
-        .app-header h1 {
-          font-size: 2em;
-        }
-
-        
-
-      }
